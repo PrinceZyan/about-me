@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+}
+.headings {
+    font-style: italic;
+    color: cornflowerblue;
+    text-align: left;
+}
+.description {
+    font-style: italic;
+    color: cornflowerblue;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+}
+.soccerteamimage {
+    height: 10%;
+    width: 40%;
+    border: 20px solid cornflowerblue;
+    display: block;
+    text-align: left;
+}
+.spongebobimage {
+    height: auto;
+   width: 40%;
+    border: 20px solid cornflowerblue;
+    display: block;
+    text-align: left;
+}
+#firstwebsitedescription {
+    font-style: italic;
+    color: cornflowerblue;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+}
+#soccerdescription {
+    font-style: italic;
+    color: cornflowerblue;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+/* need to have 40 or more lines */
